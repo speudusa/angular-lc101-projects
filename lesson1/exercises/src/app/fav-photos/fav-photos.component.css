@@ -3,6 +3,9 @@ h3 {
 }
 
 img {
+   border-radius: 8px;
+   max-width: 30%;
+   height: auto;
 
 }
 
